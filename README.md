@@ -1,9 +1,13 @@
 # How-To-Install-Qt-in-Ubuntu
 
 # Install Qt Creator
+
 sudo apt-get install build-essential
+
 sudo apt-get install qtcreator
+
 sudo apt-get install qt5-default
+
 
 # Install documentation and examples
 
